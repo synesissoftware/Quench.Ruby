@@ -5,7 +5,7 @@
 # Purpose:  Version for Quench.Ruby library
 #
 # Created:  19th August 2026
-# Updated:  19th August 2026
+# Updated:  30th August 2026
 #
 # Home:     https://github.com/synesissoftware/Quench.Ruby
 #
@@ -50,7 +50,7 @@
 module Quench
 
   # Current version of the Quench.Ruby library
-  VERSION           = '0.0.1'
+  VERSION           = '0.0.2'
 
   private
   VERSION_PARTS_    = VERSION.split(/[.]/).collect { |n| n.to_i } # :nodoc:
