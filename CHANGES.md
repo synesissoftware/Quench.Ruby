@@ -1,6 +1,13 @@
 # Quench.Ruby - Changes <!-- omit in toc -->
 
 
+## 0.0.2 - 30th August 2026
+
+* updated GitHub Actions checkout references to **v7**;
+* added shared **.vscode/settings.json** editor configuration and stopped ignoring **.vscode/**;
+* corrected shared project URL metadata in **quench-ruby.gemspec**;
+
+
 ## 0.0.1 - 19th August 2026
 
 * initial gold-standard packaging: **Gemfile**, **quench-ruby.gemspec**, **Rakefile**, GitHub Actions **ruby.yml**, **.sis**, **.editorconfig**, **.gitattributes**, **.gitignore**, helper scripts, and the Synesis markdown set;
